@@ -6,4 +6,4 @@ def current_time
     time.strftime("%H : %M : %S")   
 end
 
-puts current_time
+puts cnurret_time
